@@ -86,13 +86,12 @@ main {
   border: 2px solid var(--var-4);
 
   background-color: var(--var-3);
+
+  overflow: hidden;
 }
 
 .card img {
   width: 100%;
-
-  border-top-right-radius: 8px;
-  border-top-left-radius: 8px;
 }
 
 .card .card-body {
